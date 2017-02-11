@@ -1,9 +1,6 @@
 /*
 Student Name: Vij Madhav  
-Student ID: 1001440170
-Project Name:   Project2- A Weather App Integration with Google Maps
-Due Date:   10/26/2016
-Last Edited: 10/26/2016
+Project Name:   A Weather App Integration with Google Maps
 */
 
 var username = "madhavvij";
