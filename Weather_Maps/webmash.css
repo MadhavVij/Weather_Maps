@@ -1,0 +1,51 @@
+/*
+Student Name: Vij Madhav  
+Student ID: 1001440170
+Project Name:   Project2- A Weather App Integration with Google Maps
+Due Date:   10/26/2016
+Last Edited: 10/26/2016
+*/
+body {background-color: #ebebeb;}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+
+th {
+    background-color: #3F51B5;
+    color: white;
+}
+textarea {
+    overflow: auto;
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    
+}
+
+button{
+    background-color: #1A237E;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+p{
+    float:right; 
+    background: #aaa;
+    color:white;
+    padding: 8px;
+}
+header {
+    text-align: center;
+    background: black;
+    color:white;
+    padding: .5%
+}
